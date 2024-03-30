@@ -14,7 +14,7 @@ Hi there! I'm Vitaliia Ieromina, a passionate developer. I love building interac
 - Responsive Web Design
 
 ## Contact Me
-Feel free to reach out to me via email at vitaliia.ieromina@gmail.com(mailto:vitaliia.ieromina@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/vitaliia-ieromina-23a55682/).
+Feel free to reach out to me via email at [vitaliia.ieromina@gmail.com](mailto:vitaliia.ieromina@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/vitaliia-ieromina-23a55682/).
 
 
 
